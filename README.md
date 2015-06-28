@@ -1,6 +1,6 @@
 # date-compare-C
 
-#USANGE
+#USAGE
 
 Insert 2 date in function which you wana compare:
 
